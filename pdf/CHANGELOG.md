@@ -3,8 +3,11 @@
 ## 3.8.5
 
 - Improve TTF Writer compatibility
+<<<<<<< HEAD
 - Apply THE BIDIRECTIONAL ALGORITHM using dart_bidi [Milad akarie]
 - Add Inseparable Widget
+=======
+>>>>>>> parent of c497623... Apply THE BIDIRECTIONAL ALGORITHM using dart_bidi lib Rename some related references
 
 ## 3.8.4
 
